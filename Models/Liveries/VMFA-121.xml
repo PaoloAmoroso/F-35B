@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">USMCA, Iwakuni MCAS, VK-01 </name>
+        <F35B>Liveries/USMCA/VMFA-121.png</F35B>
+      </livery>
+     </model>
+  </sim>
+
+</PropertyList>
