@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">USMCA, Beaufort MCAS, VM-01</name>
+        <F35B>Liveries/USMCA/VMFAT-501.png</F35B>
+      </livery>
+     </model>
+  </sim>
+
+</PropertyList>
