@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">BF-01</name>
+        <F35B>Liveries/Default/F35B1_T.png</F35B>
+      </livery>
+     </model>
+  </sim>
+
+</PropertyList>

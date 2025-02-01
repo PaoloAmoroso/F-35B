@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">ItAF, 32-18</name>
+        <F35B>Liveries/ItAF/32-18.png</F35B>
+      </livery>
+     </model>
+  </sim>
+
+</PropertyList>
