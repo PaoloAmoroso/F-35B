@@ -7,7 +7,7 @@
 
 		<load>
 			<![CDATA[
-			print("Loading F-35A", cmdarg().getPath());
+			print("Loading F-35B", cmdarg().getPath());
 
       var nodeName = cmdarg().getPath(); 
 
@@ -18,7 +18,7 @@
 			
 
 ############################################
-#F-35A INITIALIZER
+#F-35B INITIALIZER
 			var object_init = func() {
 				# Datas of this object are under: cmdarg().getPath()
 				var thisNodeName = cmdarg().getPath();
@@ -292,7 +292,7 @@
 		</load>
 		<unload>
 			<![CDATA[
-			print("Unload F-35A Lightning II.");
+			print("Unload F-35B Lightning II.");
       var nodeName= cmdarg().getPath();  
       bombable.de_overall_initialize( nodeName );
       bombable.initialize_del( nodeName );
