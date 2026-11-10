@@ -1084,14 +1084,15 @@
   </primus2000>
 
     <radar>
+ 	 <mode type="int">0</mode>
+	 <range type="double" archive="y">20</range>
+ 	 <display-mode type="string">ARC</display-mode>
       <serviceable type="bool" archive="y">true</serviceable>
       <switch type="string" archive="y">on</switch>
       <mode-control type="int" archive="y">3</mode-control>
-      <range type="int" archive="y">20</range>
       <minimized type="bool" archive="y">false</minimized>
       <heading-marker type="bool" archive="y">false</heading-marker>
       <lightning type="bool" archive="y">false</lightning>
-      <display-mode type="string">ARC</display-mode>
         <display-controls>
           <WX type="bool" archive="y">false</WX>
           <data type="bool" archive="y">true</data>
@@ -1813,7 +1814,7 @@
 		</enav>
 
 		<radar>
-			<file>Aircraft/F-35B/Nasal/radar.nas</file> 
+			<file>Aircraft/F-35B/Nasal/Radar.nas</file> 
 		</radar>
 		 
 		<terrain-map>
