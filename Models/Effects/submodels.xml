@@ -28,7 +28,7 @@
     <cd>0.193</cd>
     <weight>0.286600941</weight>
     <eda>0.00338158219</eda>
-    <pitch-offset>-4</pitch-offset>
+    <pitch-offset>3.8</pitch-offset>
     <fuse-range>0</fuse-range>
     <life>60</life>
     <trigger>controls/armament/trigger</trigger>
@@ -64,8 +64,6 @@
       <x-m> -2.49540 </x-m>
       <y-m>  0.00000 </y-m>
       <z-m>  0.42969 </z-m>
-    <yaw-offset>0</yaw-offset>
-    <pitch-offset alias="../../cannon/pitch-offset"/>
   </submodel>
 
   <submodel>
