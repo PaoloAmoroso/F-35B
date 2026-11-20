@@ -3389,15 +3389,14 @@ if(navStillOn) {
 <!-- EFFECTS -->
 
 	<model>
-		<name>flame</name>
+		<name>GunFire</name>
 		<path>Aircraft/F-35B/Models/Effects/flame.xml</path>
-	
 		<offsets>
-			<x-m> 0</x-m>
-			<y-m>0</y-m>
-			<z-m> 0</z-m>
-			<pitch-deg>0</pitch-deg>
+			<x-m>  0.052132 </x-m>
+			<y-m>  0.000000 </y-m>
+			<z-m> -1.239900 </z-m>
 		</offsets>
+
 		<condition>
 			<equals>
 				<property>controls/armament/trigger</property>
